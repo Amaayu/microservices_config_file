@@ -1,1 +1,5 @@
 
+spring:
+  application:
+    name: Config_server_aashu  # यह Eureka में इसी नाम से register होगा
+
